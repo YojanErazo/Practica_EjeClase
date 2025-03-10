@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\API",
+    "\\Backend\\Aplication",
+    "\\Backend\\Aplication\\DTOs",
+    "\\Frontend",
+    "\\Infra"
+  ],
+  "SelectedNode": "\\Infra\\docker-compose.yml",
+  "PreviewInSolutionExplorer": false
+}
